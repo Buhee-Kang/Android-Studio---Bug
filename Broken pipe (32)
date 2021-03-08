@@ -1,0 +1,7 @@
+오류 내용
+Unknown failure: cmd: Failure calling service package: Broken pipe (32)
+
+이런 거 나오면서 찾아보면 용량 부족하다 어쩌고 저쩌고 함.
+기기 삭제해도 되지만 나는 그냥 데이터를 삭제함.
+
+AVD - Action - 화살표 -  
